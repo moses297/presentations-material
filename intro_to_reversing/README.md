@@ -13,24 +13,6 @@ Reverse engineering is the process of analyzing a system to understand its desig
 * Extract useful information
 * Identify vulnerabilities
 
-## Key Topics Covered
-
-### 1. Compilation & Execution
-* How source code turns into machine code
-* Understanding executables and binary structure
-
-### 2. Reading Binary Files
-* ASCII and Opcode tables
-* Extracting strings and structures
-
-### 3. Reverse Engineering Tools
-* Disassembly and decompilation
-* Tools like Ghidra, IDA, and more
-
-### 4. Modifying Executables
-* Changing strings in binary files
-* Altering program logic by modifying opcodes
-
 ## Repository Contents
 
 ### Example Files
