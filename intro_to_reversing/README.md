@@ -42,7 +42,7 @@ Reverse engineering is the process of analyzing a system to understand its desig
 ## Tools & Resources
 
 ### Disassembly & Decompilation
-* **Ghidra**: Open-source reverse engineering tool
+* **Ghidra**: Open-source reverse engineering tool (Some countries need VPN to access it)
   * [https://ghidra-sre.org/](https://ghidra-sre.org/)
 * **IDA Free**: Interactive disassembler
   * [https://hex-rays.com/ida-free/](https://hex-rays.com/ida-free/)
